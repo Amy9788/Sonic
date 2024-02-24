@@ -1,5 +1,5 @@
 ![](demo.png)
-<a href="https://amy9788.github.io/Sonic/"> 
+<a href="https://amy9788.github.io/Sonic/" align="center" style="font-size:0.5em;"> 
   Live Demo
 </a>
 ## Description
