@@ -1,6 +1,7 @@
+# Demo
 ![](demo.png)
 <p></p>
-##<a href="https://amy9788.github.io/Sonic/"> 
+<a href="https://amy9788.github.io/Sonic/"> 
   Live Demo >>
 </a>
 ## Description
