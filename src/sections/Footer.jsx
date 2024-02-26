@@ -63,7 +63,7 @@ const Footer = () => {
             className="rounded-full m-0"
 
           />
-          <p>Copyright. All rights reserved.</p>
+          <p>Copyright 2024. All rights reserved.</p>
         </div>
 
         <p className="font-montserrat cursor-pointer">
